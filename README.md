@@ -81,11 +81,13 @@ Binary classifiers which will be used for reclassification of confusive Baybayin
 
 ## Acknowledgement
 
-We would like to acknowledge the following sources for the creation of Tagalog words database, acquisition of Baybayin words from a tattoo and a shirt images, and for the implementation of an external MATLAB function (<i> permn <i>).
+We would like to acknowledge the following sources for the creation of Tagalog words database, acquisition of Baybayin words from tattoo, shirt, signage and writings images, and for the implementation of an external MATLAB function (<i> permn <i>).
   1. Francisco, R. (2017, January 13). Tagalog Dictionary Scraper [Repository]. Retrieve from: https://github.com/raymelon/tagalog-dictionary-scraper/blob/master/tagalog\_dict.txt
   2. Tagalog Dictionary Available for Download. (n.d.). Retrieve from:\\ http://www.tagalog2.com/tagalog_excel.htm
   3. Gensaya, C. J. F. (2018, January 21). Tagalog Words Stemmer using Python [Repository]. Retrieve from: \\https://github.com/crlwingen/TagalogStemmerPython/blob/master/output/root\_word.txt
   4. Imperial, J. (2020, March 24). FilWordNetExtractor [Repository]. Retrieve from:\\ https://github.com/imperialite/FilWordNetExtractor/blob/master/FilWordNet\%20files/words.xlsx
   5. ARRIAN (2011, June 27). FONDVOXCURO - Baybayin Tattoos [Blog]. Retrieve from: https://s30fondvoxcuro1.blogspot.com/2011/06/baybayin-tattoos.html?m=0
   6. Etsy, Incorporated (2021). Baybayin Pilipinas Tshirt Design [Online Store]. Retrieve from: https://www.etsy.com/ie/listing/840857569/baybayin-pilipinas-tshirt-design
-  7. Jos (10584) (2019, January 19). permn, MATLAB Central File Exchange. Retrieved from: https://www.mathworks.com/matlabcentral/fileexchange/7147-permn
+  7. \item GMA Public Affairs (2019, August 30). Stand for Truth: Baybayin, magagamit na sa smartphone? [Youtube Video, 00:12 mark]. Retrieve from: https://www.youtube.com/watch?v=HaM3mpXBlgU
+  8. Calipusan, Ricky Jr. (2020, December 24). Ricky's Calligraphy [Facebook Post]. Retrieve from: https://www.facebook.com/photo?fbid=1391529684512434&set=gm.3415224601937527
+  9. Jos (10584) (2019, January 19). permn, MATLAB Central File Exchange. Retrieved from: https://www.mathworks.com/matlabcentral/fileexchange/7147-permn
