@@ -1,5 +1,5 @@
 # A-Baybayin-Word-Recognition-System
-A proposed algorithm to recognize Baybayin writing system at word level.
+A proposed algorithm to recognize Baybayin writing system at word level. You can check the full paper here: https://peerj.com/articles/cs-596/.
 
 <b> NOTE: The whole system files (Baybayin word images examples, classifiers, etc.) described here can be downloaded in Release section. Its source filename is `A.Baybayin.Word.Recognition.System.zip`. The following link provides the complete system file page:
   
